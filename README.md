@@ -10,3 +10,12 @@ Aplikasi yang dibangun dengan memfokuskan pada faktor-faktor kualitas pengujian,
 2. Lihat pada bagian release lalu unduh isinya.
 3. Buka file CollectionOfTestingApp.exe untuk menjalankan aplikasi.
 
+# Cara Menggunakan
+untuk menjalankan aplikasi ini:
+1. Buka aplikasi.
+2. Pilih menu testing sesuai dengan apa yang ingin anda uji.
+3. Instruksi penggunaan setiap item menu ada di dalamnya.
+4. Lakukan pengujian.
+
+# Kontributor dan Kontak
+- [UIN SUKA SE](https://github.com/uin-suka-se)
