@@ -1,3 +1,6 @@
 [submodule "CollectionOfTestingApp_2022"]
 	path = CollectionOfTestingApp_2022
 	url = https://github.com/Imam-alif16/CollectionOfTestingApp.git
+[submodule "CollectionOfTestingApp_2023"]
+	path = CollectionOfTestingApp_2023
+	url = https://github.com/yazidazfa/testingapp.git
